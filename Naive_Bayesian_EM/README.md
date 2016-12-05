@@ -18,9 +18,9 @@ XN =[xN1,xN2...xNL]
 
 # 第一部分:朴素贝叶斯非监督EM算法推导
 
-![](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/1.gif)  
+![github1](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/1.gif)  
 
-![](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/2.gif)  
+![github2](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/2.gif)  
 
 # 第二部分：测试
 
