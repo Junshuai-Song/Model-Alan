@@ -17,9 +17,9 @@
 
 # 第一部分:朴素贝叶斯非监督EM算法推导
 
-![github](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/1.gif)  
+![github](https://github.com/songjs1993/model/raw/master/Naive_Bayesian_EM/1.gif)  
 
-![github](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/2.gif)  
+![github](https://github.com/songjs1993/model/raw/master/Naive_Bayesian_EM/2.gif)  
 
 # 第二部分：测试
 
