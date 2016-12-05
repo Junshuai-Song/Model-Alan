@@ -8,19 +8,18 @@
 * Data Set: Activity Recognition from a Single Chest-Mounted Accelerometer
 
 # 问题描述
-对输入数据 [X1, X2...Xn ] 进行聚类。注:每个 Xi 表示一个 L 维度的样本,样本个数为 N。使用 聚类结果与原有数据类别做比较,查看聚类效果。
+* 对输入数据 [X1, X2...Xn ] 进行聚类。
+* 每个 Xi 表示一个 L 维度的样本,样本个数为 N。使用 聚类结果与原有数据类别做比较,查看聚类效果。
 
-* 输入数据
-注:我们将数据集切分,0.8 进行训练,0.2 进行测试 2. 期望输出
-(1)对于每个样本聚类的结果; (2)与原有数据类别相比的聚类效果(训练集与测试集)。
-X1 =[x11,x12...x1L] X2 =[x21,x22...x2L] ...
-XN =[xN1,xN2...xNL]
+# 输入数据
+* https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer
+* 注:我们将数据集切分,0.8 进行训练,0.2 进行测试 
 
 # 第一部分:朴素贝叶斯非监督EM算法推导
 
-![github1](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/1.gif)  
+![github](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/1.gif)  
 
-![github2](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/2.gif)  
+![github](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/2.gif)  
 
 # 第二部分：测试
 
