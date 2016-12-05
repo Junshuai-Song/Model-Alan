@@ -22,7 +22,9 @@ XN =[xN1,xN2...xNL]
 (2)样本之间相互独立;各样本各特征之间相互独立。 2. 目标
 使得生成模型概率最大。
 
-![](https://github.com/songjs1993/model/Naive_Bayesian_EM/1.png)  
+![](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/1.png)  
+
+![](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/2.png)  
 
 1. 数据预处理
 • 数据集分为 15 个文件,取第一个文件 1.csv 处理数据; • 类别 0 只有一个样本,将其作为异常点删除;
