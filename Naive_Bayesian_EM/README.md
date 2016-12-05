@@ -18,19 +18,9 @@ XN =[xN1,xN2...xNL]
 
 # 第一部分:朴素贝叶斯非监督EM算法推导
 
-![](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/1.png)  
+![](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/1.gif)  
 
-![](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/2.png)  
-
-
-				\begin{eqnarray*}
-				w_{j}^{(i)} & = & P(z^{(i)}=j | x^{(i)} ; \theta) \\
-				& = & P(z^{(i)}=j | x^{(i)} ; \alpha, \phi^{1,2...L}) \\
-				& = &  \frac{P(x^{(i)} | z^{(i)}=j ; \alpha, \phi^{1,2...L}) * P(z^{(i)}=j ; \alpha)}{ \sum_{j=1}^K P(x^{(i)} | z^{(i)}=j ; \alpha, \phi^{1,2...L}) * P(z^{(i)}=j ; \alpha) } \\
-				& = &  \frac{ \prod_{l=1}^L \phi_{jx_{l}^{(i)}}^{(l)} * \alpha_j}{ \sum_{j=1}^K (\prod_{l=1}^L \phi_{jx_{l}^{(i)}}^{(l)} * \alpha_j) }			
-				\end{eqnarray*}		
-
-
+![](https://github.com/songjs1993/model/edit/master/Naive_Bayesian_EM/2.gif)  
 
 # 第二部分：测试
 
