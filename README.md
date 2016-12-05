@@ -7,3 +7,7 @@ A Unified Model for Stable and Temporal Topic Detection from Social Media Data
 
 ## Naive_Bayesian_EM
 朴素贝叶斯的非监督形式实现
+
+## gSpan
+gSpan: Graph-Based Substructure Pattern Mining
+
