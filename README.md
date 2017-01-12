@@ -4,6 +4,7 @@
 # Model
 ## EUTB
 挖掘stable以及temporal主题：《A Unified Model for Stable and Temporal Topic Detection from Social Media Data》
+
 注：EM-style算法求解
 
 ## Naive_Bayesian_EM
@@ -14,3 +15,8 @@
 
 ## ullmann
 子图同构检测算法：《An Algorithm for Subgraph Isomorphism》
+
+## 机器学习_概率解释.pdf
+参见：https://github.com/songjs1993/ML/
+
+主要介绍一些常见机器学习算法，同时从损失函数与概率的角度解释了一些机器学习领域内的基本概念。
