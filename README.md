@@ -21,6 +21,8 @@
 
 ## 6.UniWalk
 Online SimRank：《UniWalk: Unidirectional Random Walk Based Scalable SimRank Computation over Large Graph》
+参见：https://github.com/songjs1993/DeepSimRank
+
 
 
 主要介绍一些常见机器学习算法，同时从损失函数与概率的角度解释了一些机器学习领域内的基本概念。
