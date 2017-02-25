@@ -23,6 +23,7 @@
 Online SimRank：《UniWalk: Unidirectional Random Walk Based Scalable SimRank Computation over Large Graph》
 参见：https://github.com/songjs1993/DeepSimRank
 
-
+## 7. DeepWalk
+《DeepWalk: Online Learning of Social Representations》简单说就是将从graph上各顶点Sample出的一些路径看做自然语言处理中的句子，每个顶点看做单词；之后喂到Word2vec中获得每个顶点(单词)的词向量；最后放到一个基本分类器中为graph上顶点做分类。
 
 主要介绍一些常见机器学习算法，同时从损失函数与概率的角度解释了一些机器学习领域内的基本概念。
