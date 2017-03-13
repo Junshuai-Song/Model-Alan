@@ -22,12 +22,18 @@
 主要介绍一些常见机器学习算法，同时从损失函数与概率的角度解释了一些机器学习领域内的基本概念。
 
 ## 6.UniWalk
-Online SimRank：《UniWalk: Unidirectional Random Walk Based Scalable SimRank Computation over Large Graph》 - 2016
-《On Top-k Structural Similarity Search》- 2012 IEEE
-参见：https://github.com/songjs1993/DeepSimRank - 名称暂定
+#### 6.1 Online SimRank：《UniWalk: Unidirectional Random Walk Based Scalable SimRank Computation over Large Graph》 - 2016
+#### 6.2《On Top-k Structural Similarity Search》- 2012 IEEE
+参见：https://github.com/songjs1993/DeepSimRank
 
 ## 7. DeepLearning
+#### 7.1 Ordinary neural network
+参见：https://github.com/songjs1993/DeepLearning
+#### 7.2 AutoEncoder
 参见：https://github.com/songjs1993/DeepLearning
 
-
-
+## 8. Graph Embedding
+#### 8.1 《node2vec: Scalable Feature Learning for Networks - 2016/08 KDD》
+参见：https://github.com/songjs1993/Graph-Embedding/tree/master/node2vec
+#### 8.2 IsoMap：《A Global Geometric Framework for Nonlinear Dimensionality Reduction》
+参见：https://github.com/songjs1993/Graph-Embedding/tree/master/isomap
