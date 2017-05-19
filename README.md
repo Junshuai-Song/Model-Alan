@@ -22,7 +22,7 @@
 主要介绍一些常见机器学习算法，同时从损失函数与概率的角度解释了一些机器学习领域内的基本概念。
 
 ## 6.UniWalk
-#### 6.1 Online SimRank：《UniWalk: Unidirectional Random Walk Based Scalable SimRank Computation over Large Graph》 - 2016
+#### 6.1 Online SimRank：UniWalk
 #### 6.2《On Top-k Structural Similarity Search》- 2012 IEEE
 参见：https://github.com/songjs1993/DeepSimRank
 
